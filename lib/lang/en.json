@@ -1,0 +1,15 @@
+{
+   "home_page":"Home Page",
+   "personal_information":"Personal Information",
+   "name":"Name",
+   "name_hint":"Enter name",
+   "email":"Email",
+   "email_hint":"Enter email address",
+   "date_of_birth":"Date of birth",
+   "required_field":"required field",
+   "submit_info":"Submit Information",
+   "about_us":"About Us",
+   "settings":"Settings",
+   "change_language":"Change Language",
+   "about":"Enter email address"
+}
